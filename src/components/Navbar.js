@@ -2,12 +2,7 @@ const Navbar = (props) =>{
     return (
        <nav style={styles.navStyle}>
           <h1>{props.text}</h1>
-
-          <ul>
-              <li>Home</li>
-              <li>Products</li>
-          </ul>
-       </nav>
+      </nav>
     );
 };
 
