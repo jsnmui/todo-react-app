@@ -10,7 +10,8 @@ const styles = {
     navStyle:{
         display: 'flex',
         justifyContent: 'space-around',
-        border:'solid red 2px'
+        border:'solid blue 2px',
+        color: 'green'
     }
 }
 
